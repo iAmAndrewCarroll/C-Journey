@@ -1,0 +1,15 @@
+/Users/andrewcarroll/Desktop/C-Journey/modudle3Booleans/bin/Debug/net9.0/modudle3Booleans
+/Users/andrewcarroll/Desktop/C-Journey/modudle3Booleans/bin/Debug/net9.0/modudle3Booleans.deps.json
+/Users/andrewcarroll/Desktop/C-Journey/modudle3Booleans/bin/Debug/net9.0/modudle3Booleans.runtimeconfig.json
+/Users/andrewcarroll/Desktop/C-Journey/modudle3Booleans/bin/Debug/net9.0/modudle3Booleans.dll
+/Users/andrewcarroll/Desktop/C-Journey/modudle3Booleans/bin/Debug/net9.0/modudle3Booleans.pdb
+/Users/andrewcarroll/Desktop/C-Journey/modudle3Booleans/obj/Debug/net9.0/modudle3Booleans.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcarroll/Desktop/C-Journey/modudle3Booleans/obj/Debug/net9.0/modudle3Booleans.AssemblyInfoInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/modudle3Booleans/obj/Debug/net9.0/modudle3Booleans.AssemblyInfo.cs
+/Users/andrewcarroll/Desktop/C-Journey/modudle3Booleans/obj/Debug/net9.0/modudle3Booleans.csproj.CoreCompileInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/modudle3Booleans/obj/Debug/net9.0/modudle3Booleans.sourcelink.json
+/Users/andrewcarroll/Desktop/C-Journey/modudle3Booleans/obj/Debug/net9.0/modudle3Booleans.dll
+/Users/andrewcarroll/Desktop/C-Journey/modudle3Booleans/obj/Debug/net9.0/refint/modudle3Booleans.dll
+/Users/andrewcarroll/Desktop/C-Journey/modudle3Booleans/obj/Debug/net9.0/modudle3Booleans.pdb
+/Users/andrewcarroll/Desktop/C-Journey/modudle3Booleans/obj/Debug/net9.0/modudle3Booleans.genruntimeconfig.cache
+/Users/andrewcarroll/Desktop/C-Journey/modudle3Booleans/obj/Debug/net9.0/ref/modudle3Booleans.dll
