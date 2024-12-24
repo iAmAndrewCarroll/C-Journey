@@ -1,0 +1,15 @@
+/Users/andrewcarroll/Desktop/C-Journey/forStatement/bin/Debug/net9.0/forStatement
+/Users/andrewcarroll/Desktop/C-Journey/forStatement/bin/Debug/net9.0/forStatement.deps.json
+/Users/andrewcarroll/Desktop/C-Journey/forStatement/bin/Debug/net9.0/forStatement.runtimeconfig.json
+/Users/andrewcarroll/Desktop/C-Journey/forStatement/bin/Debug/net9.0/forStatement.dll
+/Users/andrewcarroll/Desktop/C-Journey/forStatement/bin/Debug/net9.0/forStatement.pdb
+/Users/andrewcarroll/Desktop/C-Journey/forStatement/obj/Debug/net9.0/forStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcarroll/Desktop/C-Journey/forStatement/obj/Debug/net9.0/forStatement.AssemblyInfoInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/forStatement/obj/Debug/net9.0/forStatement.AssemblyInfo.cs
+/Users/andrewcarroll/Desktop/C-Journey/forStatement/obj/Debug/net9.0/forStatement.csproj.CoreCompileInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/forStatement/obj/Debug/net9.0/forStatement.sourcelink.json
+/Users/andrewcarroll/Desktop/C-Journey/forStatement/obj/Debug/net9.0/forStatement.dll
+/Users/andrewcarroll/Desktop/C-Journey/forStatement/obj/Debug/net9.0/refint/forStatement.dll
+/Users/andrewcarroll/Desktop/C-Journey/forStatement/obj/Debug/net9.0/forStatement.pdb
+/Users/andrewcarroll/Desktop/C-Journey/forStatement/obj/Debug/net9.0/forStatement.genruntimeconfig.cache
+/Users/andrewcarroll/Desktop/C-Journey/forStatement/obj/Debug/net9.0/ref/forStatement.dll
