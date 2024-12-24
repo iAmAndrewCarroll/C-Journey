@@ -445,7 +445,7 @@ No matter how you formatted the code, when you run the code, you should see the 
 Set contains 42
 Total: 108
 
-Branch the flow of code using the switch-case construct in C#
+**Branch the flow of code using the switch-case construct in C#**
 
 Learning objectives
 In this module, you will:
@@ -497,4 +497,294 @@ The switch is best used when:
 You have a single value (variable or expression) that you want to match against many possible values.
 For any given match, you need to execute a couple of lines of code at most.
 
+**example code**
+```csharp
+int employeeLevel = 400;
+string employeeName = "Andrew Carroll";
+
+string title = "";
+
+switch (employeeLevel)
+{
+  case 100:
+    title = "Junior Associate";
+    break;
+  case 200:
+    title = "Senior Associate";
+    break;
+  case 300:
+    title = "Manager";
+    break;
+  case 400:
+    title = "Senior Manager";
+    break;
+  default:
+    title = "Associate";
+    break;
+}
+
+Console.WriteLine($"{employeeName} is a {title}.");
+```
+Output: Andrew Carroll is a Senior Manager.
+
+In our example:
+
+the switch expression is (employeeLevel)
+each switch section has a single switch label (case or default).
+the matching switch section is defined by case: 400, since employeeLevel = 400.
+
+Note:
+if the employeeLevel is assigned 401 or 307 the output will default to Associate because there is no case for those values.
+
+**Switch-case construct challenge**
+```csharp
+// SKU = Stock Keeping Unit.
+// SKU value format: <product #>-<2-letter color code>-<size code>
+string sku = "01-MN-L";
+
+// creates product array ["01", "MN", "L"]
+string[] product = sku.Split('-');
+string type = "";
+string color = "";
+string size = "";
+
+Console.WriteLine($"Initial Values: {product[0]}, {product[1]}, {product[2]}");
+
+switch (product[0])
+{
+  case "01":
+    type = "Sweat shirt";
+    break;
+  case "02":
+    type = "T-Shirt";
+    break;
+  case "03":
+    type = "Sweat pants";
+    break;
+  default:
+    type = "Other";
+    break;
+}
+
+switch (product[1])
+{
+  case "BL":
+    color = "Black";
+    break;
+  case "MN":
+    color = "Maroon";
+    break;
+  case "WH":
+    color = "White";
+    break;
+  default:
+    color = "Other";
+    break;
+}
+
+switch (product[2])
+{
+  case "S":
+    size = "Small";
+    break;
+  case "M":
+    size = "Medium";
+    break;
+  case "L":
+    size = "Large";
+    break;
+  default: 
+    size = "One size fits all";
+    break;
+}
+
+Console.WriteLine($"Product: {size} {color} {type}");
+```
+
+**For Statements: Iterate through a code block using for statement in C#**
+
+Learning objectives
+In this module, you will:
+
+Use a for statement to loop through a block of code.
+Examine the for statement syntax that enables you to control the iteration pattern.
+
+What is the for statement?
+The for statement iterates through a code block a specific number of times. This level of control makes the for statement unique among the other iteration statements. The foreach statement iterates through a block of code once for each item in a sequence of data like an array or collection. The while statement iterates through a block of code until a condition is met.
+
+Furthermore, the for statement gives you much more control over the process of iteration by exposing the conditions for iteration.
+
+**A basic FOR statement**
+```csharp
+for (int i = 0; i < 10; i++)
+{
+  Console.WriteLine(i);
+}
+```
+Output: 1 2 3 4 5 6 7 8 9 (given vertically in the terminal)
+
+The for statement includes the following six parts:
+
+- The for keyword.
+- A set of parentheses that defines the conditions of for iteration. The parentheses contain three distinct parts, separated by the end of statement operator, a semi-colon.
+- The first part defines and initializes the iterator variable. In this example: int i = 0. This section is referred to as the initializer.
+- The second part defines the completion condition. In this example: i < 10. In other words, the runtime will continue to iterate over the code in the code block below the for statement while i is less than 10. When i becomes equal to 10, the runtime stops executing the for statement's code block. The docs refer to this section as the condition.
+- The third part defines the action to take after each iteration. In this case, after each iteration, i++ will increment the value of i by 1. The docs refer to this section as the iterator.
+- Finally, the code block. The code block contains the code that will be executed for each iteration. Notice that the value of i is referenced inside of the code block. The docs refer to this section as the body.
+
+Change the iteration conditions
+As we stated at the outset, the for statement has two unique qualities among iteration statements.
+
+The for statement should be used when you know the number of times you need to iterate through a block of code ahead of time.
+The for statement allows you to control the way in which each iteration is handled.
+What if we needed to iterate through a block of code, but want to count down instead of counting up?
+
+Use the Visual Studio Code Editor to update your code as follows:
+```csharp
+for (int i = 10; i >= 0; i--)
+{
+    Console.WriteLine(i);
+}
+```
+Output: 10 9 8 7 6 5 4 3 2 1 0 (given vertically in the terminal)
+
+By changing the three parts of the for statement, we change its behavior.
+
+We initialize the iteration variable to 10.
+We change the completion condition to exit the for statement when i is less than 0.
+We change the pattern of the iterator to subtract 1 from i each time we complete an iteration.
+
+*experiment with the iterator's pattern*
+```csharp
+for (int i = 0; i < 10; i += 3)
+{
+  Console.WriteLine(i);
+}
+```
+Output: 0 3 6 9 (given vertically in the terminal)
+
+In this example, we initialize the iteration variable to 0. We change the completion condition to exit the for statement when i is less than 10. We change the pattern of the iterator to add 3 to i each time we complete an iteration.
+
+**Use break to break the iteration**
+```csharp
+for (int i = 0; i < 10; i++)
+{
+  Console.WriteLine(i);
+  if (i == 7) break;
+}
+```
+Output: 0 1 2 3 4 5 6 7 (given vertically in the terminal)
+
+Take a minute to review the use of the break keyword in your updated code.
+
+We first saw the break keyword in the module "Branch the flow of code using the switch-case construct in C#". As it turns out, we can use the break keyword to exit out of iteration statements as well.
+
+**Loop through each element of an array**
+```csharp
+string[] names = { "Alex", "Eddie", "David", "Michael" };
+for (int i = names.Length - 1; i >= 0; i--)
+{
+  Console.WriteLine(names[i]);
+}
+```
+Output: Michael David Eddie Alex (given vertically in the terminal)
+
+First off, notice that we have instantiated a string array named names that contains four names.
+
+Next, notice that we are using the Array.Length property to get the number of elements in the array, and that we are using this value to initialize our iterator variable (int i = names.Length - 1). We subtract 1 from the value because the index number for array elements is zero-based (the index numbers of the four elements are 0-3).
+
+Finally, notice we have chosen iterate through the array backwards--something that we are unable to do with the foreach statement. We use the value of the iteration variable inside the code block to specify the index number of the array elements (names[i]).
+
+```csharp
+// this for loop will print the names in forward order
+string[] names = { "Alex", "Eddie", "David", "Michael" };
+for (int i = 0; i < names.Length; i++)
+{
+  Console.WriteLine(names[i]);
+}
+```
+Output: Alex Eddie David Michael (given vertically in the terminal)
+
+**Examine the limitation of the foreach statement**
+```csharp
+string[] names = { "Alex", "Eddie", "David", "Michael" };
+foreach (var name in names)
+{
+    // Can't do this:
+    if (name == "David") name = "Sammy";
+}
+```
+Output: Cannot assign to name because it is a 'foreach iteration variable'
+
+In other words, you can't reassign the value of name because it is part of the foreach iteration's inner implementation.
+
+**Overcoming the limitation of the foreach statement using the for statement**
+```csharp
+string[] names = { "Alex", "Eddie", "David", "Michael" };
+for (int i = 0; i < names.Length; i++)
+    if (names[i] == "David") names[i] = "Sammy";
+
+foreach (var name in names) Console.WriteLine(name);
+```
+Output: Alex Eddie Sammy Michael (given vertically in the terminal)
+
+```csharp
+// This is the "same" code but formatted differently.  It depends on your readability preference.
+string[] names = { "Alex", "Eddie", "David", "Michael" };
+
+for (int i = 0; i < names.Length; i++)
+{
+    if (names[i] == "David")
+    {
+        names[i] = "Sammy";
+    }
+}
+
+foreach (var name in names)
+{
+    Console.WriteLine(name);
+}
+```
+
+Here are a few of the takeaways from this unit:
+
+The for iteration statement allows you to iterate through a block of code a specific number of times.
+The for iteration statement allows you to control every aspect of the iteration's mechanics by altering the three conditions inside the parentheses: the initializer, condition, and iterator.
+It's common to use the for statement when you need to control how you want to iterate through each item in an array.
+If your code block has only one line of code, you can eliminate the curly braces and white space if you wish.
+
+**FIZZBUZZ Challenge**
+FizzBuzz challenge
+FizzBuzz is a popular coding challenge and interview question. It exercises your understanding of the for statement, the if statement, the % remainder operator, and your command of basic logic.
+
+Code challenge - implement the FizzBuzz challenge rules
+Here are the FizzBuzz rules that you need to implement in your code project:
+
+Output values from 1 to 100, one number per line, inside the code block of an iteration statement.
+When the current value is divisible by 3, print the term Fizz next to the number.
+When the current value is divisible by 5, print the term Buzz next to the number.
+When the current value is divisible by both 3 and 5, print the term FizzBuzz next to the number.
+
+```csharp
+using System;
+
+public class FizzBuzz
+{
+  public static void Run()
+  {
+    for (int i = 1; i <= 100; i++)
+        {
+          // if (i % 3 == 0 && i % 5 == 0)   This is equivalent to the next line
+          if (i % 15 == 0)
+            Console.WriteLine($"{i} - FizzBuzz");
+          else if (i % 3 == 0)
+            Console.WriteLine($"{i} - Fizz");
+          else if (i % 5 == 0)
+            Console.WriteLine($"{i} - Buzz");
+          else
+            Console.WriteLine(i);
+        }
+  }
+}
+```
 

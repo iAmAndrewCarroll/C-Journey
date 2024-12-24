@@ -1,0 +1,15 @@
+/Users/andrewcarroll/Desktop/C-Journey/switch/obj/Debug/net9.0/switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcarroll/Desktop/C-Journey/switch/obj/Debug/net9.0/switch.AssemblyInfoInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/switch/obj/Debug/net9.0/switch.AssemblyInfo.cs
+/Users/andrewcarroll/Desktop/C-Journey/switch/obj/Debug/net9.0/switch.csproj.CoreCompileInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/switch/obj/Debug/net9.0/switch.sourcelink.json
+/Users/andrewcarroll/Desktop/C-Journey/switch/bin/Debug/net9.0/switch
+/Users/andrewcarroll/Desktop/C-Journey/switch/bin/Debug/net9.0/switch.deps.json
+/Users/andrewcarroll/Desktop/C-Journey/switch/bin/Debug/net9.0/switch.runtimeconfig.json
+/Users/andrewcarroll/Desktop/C-Journey/switch/bin/Debug/net9.0/switch.dll
+/Users/andrewcarroll/Desktop/C-Journey/switch/bin/Debug/net9.0/switch.pdb
+/Users/andrewcarroll/Desktop/C-Journey/switch/obj/Debug/net9.0/switch.dll
+/Users/andrewcarroll/Desktop/C-Journey/switch/obj/Debug/net9.0/refint/switch.dll
+/Users/andrewcarroll/Desktop/C-Journey/switch/obj/Debug/net9.0/switch.pdb
+/Users/andrewcarroll/Desktop/C-Journey/switch/obj/Debug/net9.0/switch.genruntimeconfig.cache
+/Users/andrewcarroll/Desktop/C-Journey/switch/obj/Debug/net9.0/ref/switch.dll

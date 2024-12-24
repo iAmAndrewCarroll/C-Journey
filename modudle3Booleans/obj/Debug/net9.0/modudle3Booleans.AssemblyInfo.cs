@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("modudle3Booleans")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d72637fc167152695b278c764c0e0c766b702e44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dd6f946b7f124161f2412ef04cc2699469dd7fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("modudle3Booleans")]
 [assembly: System.Reflection.AssemblyTitleAttribute("modudle3Booleans")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
