@@ -1,0 +1,15 @@
+/Users/andrewcarroll/Desktop/C-Journey/TestProject/bin/Debug/net9.0/TestProject
+/Users/andrewcarroll/Desktop/C-Journey/TestProject/bin/Debug/net9.0/TestProject.deps.json
+/Users/andrewcarroll/Desktop/C-Journey/TestProject/bin/Debug/net9.0/TestProject.runtimeconfig.json
+/Users/andrewcarroll/Desktop/C-Journey/TestProject/bin/Debug/net9.0/TestProject.dll
+/Users/andrewcarroll/Desktop/C-Journey/TestProject/bin/Debug/net9.0/TestProject.pdb
+/Users/andrewcarroll/Desktop/C-Journey/TestProject/obj/Debug/net9.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcarroll/Desktop/C-Journey/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfoInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfo.cs
+/Users/andrewcarroll/Desktop/C-Journey/TestProject/obj/Debug/net9.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/TestProject/obj/Debug/net9.0/TestProject.sourcelink.json
+/Users/andrewcarroll/Desktop/C-Journey/TestProject/obj/Debug/net9.0/TestProject.dll
+/Users/andrewcarroll/Desktop/C-Journey/TestProject/obj/Debug/net9.0/refint/TestProject.dll
+/Users/andrewcarroll/Desktop/C-Journey/TestProject/obj/Debug/net9.0/TestProject.pdb
+/Users/andrewcarroll/Desktop/C-Journey/TestProject/obj/Debug/net9.0/TestProject.genruntimeconfig.cache
+/Users/andrewcarroll/Desktop/C-Journey/TestProject/obj/Debug/net9.0/ref/TestProject.dll

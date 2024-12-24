@@ -1,0 +1,15 @@
+/Users/andrewcarroll/Desktop/C-Journey/ReadableCode/obj/Debug/net9.0/ReadableCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcarroll/Desktop/C-Journey/ReadableCode/obj/Debug/net9.0/ReadableCode.AssemblyInfoInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/ReadableCode/obj/Debug/net9.0/ReadableCode.AssemblyInfo.cs
+/Users/andrewcarroll/Desktop/C-Journey/ReadableCode/obj/Debug/net9.0/ReadableCode.csproj.CoreCompileInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/ReadableCode/obj/Debug/net9.0/ReadableCode.sourcelink.json
+/Users/andrewcarroll/Desktop/C-Journey/ReadableCode/bin/Debug/net9.0/ReadableCode
+/Users/andrewcarroll/Desktop/C-Journey/ReadableCode/bin/Debug/net9.0/ReadableCode.deps.json
+/Users/andrewcarroll/Desktop/C-Journey/ReadableCode/bin/Debug/net9.0/ReadableCode.runtimeconfig.json
+/Users/andrewcarroll/Desktop/C-Journey/ReadableCode/bin/Debug/net9.0/ReadableCode.dll
+/Users/andrewcarroll/Desktop/C-Journey/ReadableCode/bin/Debug/net9.0/ReadableCode.pdb
+/Users/andrewcarroll/Desktop/C-Journey/ReadableCode/obj/Debug/net9.0/ReadableCode.dll
+/Users/andrewcarroll/Desktop/C-Journey/ReadableCode/obj/Debug/net9.0/refint/ReadableCode.dll
+/Users/andrewcarroll/Desktop/C-Journey/ReadableCode/obj/Debug/net9.0/ReadableCode.pdb
+/Users/andrewcarroll/Desktop/C-Journey/ReadableCode/obj/Debug/net9.0/ReadableCode.genruntimeconfig.cache
+/Users/andrewcarroll/Desktop/C-Journey/ReadableCode/obj/Debug/net9.0/ref/ReadableCode.dll

@@ -1,0 +1,15 @@
+/Users/andrewcarroll/Desktop/C-Journey/ArrayProject/bin/Debug/net9.0/ArrayProject
+/Users/andrewcarroll/Desktop/C-Journey/ArrayProject/bin/Debug/net9.0/ArrayProject.deps.json
+/Users/andrewcarroll/Desktop/C-Journey/ArrayProject/bin/Debug/net9.0/ArrayProject.runtimeconfig.json
+/Users/andrewcarroll/Desktop/C-Journey/ArrayProject/bin/Debug/net9.0/ArrayProject.dll
+/Users/andrewcarroll/Desktop/C-Journey/ArrayProject/bin/Debug/net9.0/ArrayProject.pdb
+/Users/andrewcarroll/Desktop/C-Journey/ArrayProject/obj/Debug/net9.0/ArrayProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcarroll/Desktop/C-Journey/ArrayProject/obj/Debug/net9.0/ArrayProject.AssemblyInfoInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/ArrayProject/obj/Debug/net9.0/ArrayProject.AssemblyInfo.cs
+/Users/andrewcarroll/Desktop/C-Journey/ArrayProject/obj/Debug/net9.0/ArrayProject.csproj.CoreCompileInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/ArrayProject/obj/Debug/net9.0/ArrayProject.sourcelink.json
+/Users/andrewcarroll/Desktop/C-Journey/ArrayProject/obj/Debug/net9.0/ArrayProject.dll
+/Users/andrewcarroll/Desktop/C-Journey/ArrayProject/obj/Debug/net9.0/refint/ArrayProject.dll
+/Users/andrewcarroll/Desktop/C-Journey/ArrayProject/obj/Debug/net9.0/ArrayProject.pdb
+/Users/andrewcarroll/Desktop/C-Journey/ArrayProject/obj/Debug/net9.0/ArrayProject.genruntimeconfig.cache
+/Users/andrewcarroll/Desktop/C-Journey/ArrayProject/obj/Debug/net9.0/ref/ArrayProject.dll
