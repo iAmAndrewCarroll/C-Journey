@@ -62,11 +62,18 @@ class Program
 {
   static void Main(string[] args)
   {
-    Console.WriteLine("Starting FizzBuzz:");
+    // Console.WriteLine("Starting FizzBuzz:");
 
-    // call the static method Run from the FizzBuzz class
-    FizzBuzz.Run();
+    // // call the static method Run from the FizzBuzz class
+    // FizzBuzz.Run();
 
-    Console.WriteLine("...Ending FizzBuzz...");
+    // Console.WriteLine("...Ending FizzBuzz...");
+
+    Console.WriteLine("Starting doWhile:");
+
+    // call the static method Run from the doWhile class
+    doWhile.Run();
+
+    Console.WriteLine("...Ending doWhile...");
   }
 }

@@ -1,0 +1,15 @@
+/Users/andrewcarroll/Desktop/C-Journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final
+/Users/andrewcarroll/Desktop/C-Journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.deps.json
+/Users/andrewcarroll/Desktop/C-Journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/Users/andrewcarroll/Desktop/C-Journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.dll
+/Users/andrewcarroll/Desktop/C-Journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.pdb
+/Users/andrewcarroll/Desktop/C-Journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcarroll/Desktop/C-Journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/Users/andrewcarroll/Desktop/C-Journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.sourcelink.json
+/Users/andrewcarroll/Desktop/C-Journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.dll
+/Users/andrewcarroll/Desktop/C-Journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/refint/Final.dll
+/Users/andrewcarroll/Desktop/C-Journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.pdb
+/Users/andrewcarroll/Desktop/C-Journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/Users/andrewcarroll/Desktop/C-Journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/ref/Final.dll

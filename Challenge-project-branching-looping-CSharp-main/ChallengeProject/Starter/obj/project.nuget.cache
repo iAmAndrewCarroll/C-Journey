@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xDGp9NfoY24=",
+  "success": true,
+  "projectFilePath": "/Users/andrewcarroll/Desktop/C-Journey/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/Starter.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrewcarroll/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/andrewcarroll/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/andrewcarroll/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
