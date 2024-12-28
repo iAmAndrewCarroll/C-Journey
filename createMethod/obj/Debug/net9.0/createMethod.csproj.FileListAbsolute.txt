@@ -1,0 +1,15 @@
+/Users/andrewcarroll/Desktop/C-Journey/createMethod/obj/Debug/net9.0/createMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcarroll/Desktop/C-Journey/createMethod/obj/Debug/net9.0/createMethod.AssemblyInfoInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/createMethod/obj/Debug/net9.0/createMethod.AssemblyInfo.cs
+/Users/andrewcarroll/Desktop/C-Journey/createMethod/obj/Debug/net9.0/createMethod.csproj.CoreCompileInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/createMethod/obj/Debug/net9.0/createMethod.sourcelink.json
+/Users/andrewcarroll/Desktop/C-Journey/createMethod/bin/Debug/net9.0/createMethod
+/Users/andrewcarroll/Desktop/C-Journey/createMethod/bin/Debug/net9.0/createMethod.deps.json
+/Users/andrewcarroll/Desktop/C-Journey/createMethod/bin/Debug/net9.0/createMethod.runtimeconfig.json
+/Users/andrewcarroll/Desktop/C-Journey/createMethod/bin/Debug/net9.0/createMethod.dll
+/Users/andrewcarroll/Desktop/C-Journey/createMethod/bin/Debug/net9.0/createMethod.pdb
+/Users/andrewcarroll/Desktop/C-Journey/createMethod/obj/Debug/net9.0/createMethod.dll
+/Users/andrewcarroll/Desktop/C-Journey/createMethod/obj/Debug/net9.0/refint/createMethod.dll
+/Users/andrewcarroll/Desktop/C-Journey/createMethod/obj/Debug/net9.0/createMethod.pdb
+/Users/andrewcarroll/Desktop/C-Journey/createMethod/obj/Debug/net9.0/createMethod.genruntimeconfig.cache
+/Users/andrewcarroll/Desktop/C-Journey/createMethod/obj/Debug/net9.0/ref/createMethod.dll

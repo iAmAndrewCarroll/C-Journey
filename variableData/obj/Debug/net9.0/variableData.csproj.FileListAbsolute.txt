@@ -1,0 +1,15 @@
+/Users/andrewcarroll/Desktop/C-Journey/variableData/obj/Debug/net9.0/variableData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcarroll/Desktop/C-Journey/variableData/obj/Debug/net9.0/variableData.AssemblyInfoInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/variableData/obj/Debug/net9.0/variableData.AssemblyInfo.cs
+/Users/andrewcarroll/Desktop/C-Journey/variableData/obj/Debug/net9.0/variableData.csproj.CoreCompileInputs.cache
+/Users/andrewcarroll/Desktop/C-Journey/variableData/obj/Debug/net9.0/variableData.sourcelink.json
+/Users/andrewcarroll/Desktop/C-Journey/variableData/bin/Debug/net9.0/variableData
+/Users/andrewcarroll/Desktop/C-Journey/variableData/bin/Debug/net9.0/variableData.deps.json
+/Users/andrewcarroll/Desktop/C-Journey/variableData/bin/Debug/net9.0/variableData.runtimeconfig.json
+/Users/andrewcarroll/Desktop/C-Journey/variableData/bin/Debug/net9.0/variableData.dll
+/Users/andrewcarroll/Desktop/C-Journey/variableData/bin/Debug/net9.0/variableData.pdb
+/Users/andrewcarroll/Desktop/C-Journey/variableData/obj/Debug/net9.0/variableData.dll
+/Users/andrewcarroll/Desktop/C-Journey/variableData/obj/Debug/net9.0/refint/variableData.dll
+/Users/andrewcarroll/Desktop/C-Journey/variableData/obj/Debug/net9.0/variableData.pdb
+/Users/andrewcarroll/Desktop/C-Journey/variableData/obj/Debug/net9.0/variableData.genruntimeconfig.cache
+/Users/andrewcarroll/Desktop/C-Journey/variableData/obj/Debug/net9.0/ref/variableData.dll
